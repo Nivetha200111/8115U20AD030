@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+virenv/
+ENV/
+env/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Local development server logs
+*.log
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+__pycache__/
+env/
+venv/
+
+# Instance folder (used by Flask to store session data)
+instance/
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+__pycache__/
+*.pyo
+
+# Caches
+*.cache
+
+# Coverage
+.coverage
+htmlcov/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Output of pyinstaller
+dist/
+build/
+*.spec
+
+# Packages
+*.egg-info/
+
+# Distribution/installation
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pycache__/
+bin/
+include/
+lib/python*.egg
+local/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
